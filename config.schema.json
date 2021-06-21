@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "rfplayer",
   "pluginType": "platform",
   "singular": true,
   "schema": {
